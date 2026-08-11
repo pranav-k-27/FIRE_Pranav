@@ -1,0 +1,12 @@
+transformers
+accelerate
+bitsandbytes
+datasets
+scipy
+numpy
+pandas
+matplotlib
+kagglehub
+huggingface_hub
+ftfy
+tabulate

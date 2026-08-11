@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+kaggle_output*/
+data/
+*.json
+!kaggle_pipeline/*/kernel-metadata.json
+.ipynb_checkpoints/
+.DS_Store
