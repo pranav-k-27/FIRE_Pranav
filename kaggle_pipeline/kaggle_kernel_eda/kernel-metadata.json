@@ -1,0 +1,15 @@
+{
+  "id": "YOUR-KAGGLE-USERNAME/fire-ami-eda",
+  "title": "FIRE AMI EDA Preflight",
+  "code_file": "kaggle_entry_eda.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["YOUR-KAGGLE-USERNAME/fire-ami-code"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
